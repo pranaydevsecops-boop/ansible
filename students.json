@@ -1,0 +1,25 @@
+{
+    "firstname":"siva",
+    "dob":"1991-01-19",
+    "address" : [
+        {
+            "type":"perm",
+            "flatnumber": 104,
+            "street": "gandhi nagar",
+            "city": "mpl"
+        },
+        {
+            "type":"temp",
+            "flatnumber": 105,
+            "street": "gandhi nagar",
+            "city": "mpl"
+        },
+        {
+            "type":"perma1",
+            "flatnumber": 105,
+            "street": "gandhi nagar",
+            "city": "mpl"
+        }
+
+    ]
+}

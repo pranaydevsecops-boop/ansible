@@ -1,0 +1,22 @@
+<student>
+    <name>Pranay reddy</name>
+    <dob>10-20-1986</dob>
+    <skills>devops</skills>
+    <permaddress>
+        <flat>104</flat>
+        <street>long boat</street>
+        <city>gandhi nagar</city>
+        <state>bnglr</state>
+    </permaddress>
+
+    <tempaddress>
+        <flat>200</flat>
+        <street>long boamofit</street>
+        <city>post nagar</city>
+        <state>mpl</state>
+    </tempaddress>
+
+    <name>reddy</name>
+    <dob>10-05-1971</dob>
+    <skills>test</skills>
+</student>

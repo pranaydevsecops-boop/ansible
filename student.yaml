@@ -1,0 +1,32 @@
+- name: "siva"
+  skills: "javaava"
+  rolse: "user"
+  Admin: "N"
+  address: 
+  - flat: 10
+    street: "gandhi"
+    colony: "P & t"
+    state: "AP"
+
+
+  - flat: 10
+    street: "gandhi"
+    colony: "P & t"
+    state: "AP"
+
+
+- name: "jenni"
+  skills: "javaava"
+  rolse: "user"
+  Admin: "N"
+  address: 
+  - flat: 10
+    street: "gandhi"
+    colony: "P & t"
+    state: "AP"
+
+
+  - flat: 10
+    street: "gandhi"
+    colony: "P & t"
+    state: "AP"
